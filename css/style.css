@@ -1,0 +1,33 @@
+body{
+    font-family: 'Open Sans','Helvetica Neue',Arial,'Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei',sans-serif;
+    /*width: 100%;*/
+    /*margin: 0;
+    padding: 0;*/
+}
+.form{
+   /*width: 70%;*/
+}
+nav{
+	height: 70px;
+}
+.footer{
+    clear:both;
+	width: 300px;
+	margin: 30px auto;
+	/*font-size: 15px;*/
+    color: #6f9c92;
+}
+#navbar-collapse{
+	margin-top: 15px;
+}
+.header-home{
+	margin-bottom: 30px;
+}
+.thumbnail img{
+	width: 80%;
+}
+.nav-pills li{
+	float: right;
+	margin-right: 15px;
+}
+
